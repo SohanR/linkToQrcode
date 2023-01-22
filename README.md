@@ -6,4 +6,4 @@ You can change the size of the generated QR Code, default size is medium which i
 
 Press the download button to save the QR Code as PNG formate.
 
-[output](!https://github.com/SohanR/linkToQrcode/blob/master/output.png)
+![output](https://github.com/SohanR/linkToQrcode/blob/master/output.png)
